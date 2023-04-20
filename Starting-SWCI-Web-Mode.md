@@ -248,6 +248,22 @@ s.listTrainingContracts()
 ```bash
 s.resetTrainingContract('defaultbb.cqdb.sml.hpe')
 ```
+  
+## Screenshots
+  
+![1  SWCI Web Mode](https://user-images.githubusercontent.com/84091455/233360576-8e687be5-9cb3-4894-abdd-3163c6452518.png)
+  <br>
+![2  SWCI Web Mode](https://user-images.githubusercontent.com/84091455/233360597-7bb7add3-edf6-46c5-8e43-fb9bd56a88a3.png)
+  <br>
+![3  SWCI Web Mode](https://user-images.githubusercontent.com/84091455/233360614-d106802b-e14b-4f57-8575-930a6003eb6f.png)
+  <br>
+![4  SWCI Web Mode](https://user-images.githubusercontent.com/84091455/233360625-a1f3cfb3-9924-46ba-859a-cfa6e7cf9464.png)
+  <br>
+![5  SWCI Web Mode](https://user-images.githubusercontent.com/84091455/233360641-0a12f73b-ffc8-4450-9b78-4eaa5472df50.png)  
+  
+## Code for creating, assigning , registering and finalizing the tasks in WEB Mode along with the desired o/p
+  
+  <a href="https://github.com/vidyesh-kumar/HPE_CTY/blob/main/SWCI_WEB_Mode.ipynb">SWCI WEB Mode Simulation in Jupyter Notebook</a>  
 
 
 
