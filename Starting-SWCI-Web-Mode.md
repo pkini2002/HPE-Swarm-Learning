@@ -6,6 +6,12 @@ Url to the same: <a href="https://github.com/HewlettPackard/swarm-learning/tree/
 
 
 - To do this if you have previously run the given example as stated above make sure to remove the docker volume and network by running these cmds 
+- Also try to remove containers that are no longer needed using `docker rm` command
+- You can try removing multiple containers simulataneously using the command
+
+```bash
+docker rm my-container1 my-container2 my-container3
+```
 
 ```bash
 docker network rm host-1-net
