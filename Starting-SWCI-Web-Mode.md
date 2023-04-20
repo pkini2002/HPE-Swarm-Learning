@@ -264,6 +264,8 @@ s.resetTrainingContract('defaultbb.cqdb.sml.hpe')
 ## Code for creating, assigning , registering and finalizing the tasks in WEB Mode along with the desired o/p
   
   <a href="https://github.com/vidyesh-kumar/HPE_CTY/blob/main/SWCI_WEB_Mode.ipynb">SWCI WEB Mode Simulation in Jupyter Notebook</a>  
+  
+- Note: The community edition doesn't have the permission to create multiple contracts  
 
 
 
