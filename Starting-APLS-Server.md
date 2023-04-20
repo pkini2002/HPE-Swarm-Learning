@@ -31,3 +31,7 @@ service hpLicenseServer start
 ```
 
 - Navigate to the browser and type `https://127.0.0.1:5814` (`https://<localhost>:5814`)
+
+## Screenshots
+
+![Starting APLS](https://user-images.githubusercontent.com/84091455/233368632-a2125a3d-d88e-4f2e-9c70-368d00ec998c.jpeg)
