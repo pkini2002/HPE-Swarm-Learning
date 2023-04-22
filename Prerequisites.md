@@ -1,7 +1,7 @@
 ## Prerequisites
 
 - HPE Swarm Learning is qualified with Docker 20.10.5. Make sure to have docker installed on you system
-- Configure Docker to run as a non-root user.
+## Configure Docker to run as a non-root user.
 
 - Create docker group
 ```bash
